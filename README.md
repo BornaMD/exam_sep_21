@@ -1,2 +1,10 @@
-# exam_sep_21
-This is the repository for the Exam on September 21.
+# Exams
+This repository contains my exams for Programming for ECO @ Tilburg University.
+
+-----
+Python Exam File:  
+[Exercise Python]()  
+
+-----
+R Exam File:  
+[Exercise R]()  
